@@ -54,6 +54,19 @@ git clone https://github.com/penny0411/0303.git
 open index.html
 ```
 
+## 📋 Development Summary
+
+本專案的完整開發與部署流程如下：
+
+1. **建立個人網頁** — 使用純 HTML、CSS、JavaScript 打造單頁式個人作品集網頁，包含 Hero 區塊、即時時鐘、關於我、專長卡片、跑馬燈、聯絡 CTA 等區段
+2. **初始化 Git 儲存庫** — 在專案目錄 `L1/` 中執行 `git init`
+3. **首次提交** — 將 `index.html` 加入版本控制並提交：*"Initial commit: personal webpage for 廖沛昀"*
+4. **設定遠端倉庫** — 將 GitHub 遠端設為 `https://github.com/penny0411/0303.git`
+5. **推送至 GitHub** — 將 `main` 分支推送到遠端倉庫
+6. **建立 README.md** — 撰寫完整的專案說明文件，涵蓋功能介紹、設計重點、技術堆疊與使用方式
+7. **加入 Live Demo 連結與截圖** — 將 GitHub Pages 網址 (`https://penny0411.github.io/0303/`) 與網頁截圖嵌入 README
+8. **加入開發摘要** — 記錄以上所有開發步驟至 README.md
+
 ## 📄 License
 
 © 2026 廖沛昀. All rights reserved.
