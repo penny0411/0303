@@ -2,6 +2,12 @@
 
 A sleek, modern single-page personal portfolio website built with pure HTML, CSS, and JavaScript. Designed with a warm, elegant aesthetic featuring soft rose-gold tones and refined typography.
 
+🔗 **Live Demo:** [https://penny0411.github.io/0303/](https://penny0411.github.io/0303/)
+
+## 📸 Preview
+
+![Portfolio Screenshot](screenshot.png)
+
 ## ✨ Features
 
 - **Hero Section** — Full-screen landing with animated floating shapes, a custom cursor glow effect, and the name "廖沛昀" displayed in elegant serif typography
